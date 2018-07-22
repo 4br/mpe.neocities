@@ -1,0 +1,42 @@
+@font-face{
+  font-family: laksaman;
+  src: url(Laksaman.ttf);
+  font-weight: bold;
+}
+@media only screen {
+body {
+    background: #222;
+    color: beige;
+    margin: 1em auto;
+    max-width: 50em;
+    padding: 0.72em;
+    font: 1.2em "laksaman", regular;
+}
+a{
+    color: #0f7;
+    text-decoration: skyblue;
+}
+a:hover {
+    text-decoration: underline;
+  }
+  w{
+    color: #099;
+    text-decoration: none;
+  }
+  h{
+    background: #0f7;
+    text-align: center;
+    color: #222;
+    margin:4em ;
+		max-width:45em;
+    padding:0.1em;
+    font: 1.1em "Liberation Sans", sans-serif;
+    }
+}
+@media only screen and (max-width: 400px) {
+    main article img {
+      display: block;
+      float: none;
+      margin: 0.5em 0;
+      max-width: 100%;}
+    }
