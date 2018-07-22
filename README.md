@@ -2,9 +2,11 @@
 My bare bones neocities website. It's main aim is to be light-weight and accessible to everyone around the world no matter what their network spped is. 
 
 # Inspiration:
-https://chriswere.neocities.org/ <br>
-https://motherfuckingwebsite.com <br>
-https://bettermotherfuckingwebsite.com <br>
-https://thebestmotherfucking.website <br>
-https://thebestmotherfuckingwebsite.co <br>
-https://bestmotherfucking.website <br>
+<ul>
+<li>https://chriswere.neocities.org/</li> <br>
+<li>https://motherfuckingwebsite.com</li> <br>
+<li>https://bettermotherfuckingwebsite.com</li> <br>
+<li>https://thebestmotherfucking.website</li> <br>
+<li>https://thebestmotherfuckingwebsite.co</li> <br>
+<li>https://bestmotherfucking.website</li> <br>
+</ul>
