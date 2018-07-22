@@ -7,6 +7,6 @@ My bare bones neocities website. It's main aim is to be light-weight and accessi
 <li>https://motherfuckingwebsite.com</li> <br>
 <li>https://bettermotherfuckingwebsite.com</li> <br>
 <li>https://thebestmotherfucking.website</li> <br>
-<li>https://thebestmotherfuckingwebsite.co</li> <br>
 <li>https://bestmotherfucking.website</li> <br>
+<li>https://thebestmotherfuckingwebsite.co</li> <br>
 </ul>
